@@ -1,0 +1,482 @@
+YEAR 2026
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique 2026 PC — Sujet
+  Exact date: Not stated on source
+  Source: MonBac.ma
+  Link: https://monbac.ma/sciences-physiques/physique-chimie/2026-session-normale/sujet
+- Normal — Correction
+  Title: Examen National Physique 2026 PC — Corrigé
+  Exact date: Not stated on source
+  Source: MonBac.ma
+  Link: https://monbac.ma/sciences-physiques/physique-chimie/2026-session-normale/corrige
+- Rattrapage — Exam/Sujet
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2025
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2025 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145796
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2025-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique 2025 PC — Corrigé
+  Exact date: Not stated on source
+  Source: MonBac.ma
+  Link: https://monbac.ma/sciences-physiques/physique-chimie/2025-session-normale/corrige
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2025 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145799
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2025-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique 2025 PC — Corrigé
+  Exact date: Not stated on source
+  Source: MonBac.ma
+  Link: https://monbac.ma/sciences-physiques/physique-chimie/2025-session-rattrapage/corrige
+
+YEAR 2024
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2024 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145763
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2024-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2024 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145766
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2024-normale-corrige.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2024 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145769
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2024-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2024 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/145772
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2024-rattrapage-corrige.pdf
+
+YEAR 2023
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2023 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/142476
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2023-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2023 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/142479
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2023-normale-corrige-3.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2023 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/142484
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2023-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2023 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/142487
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2023-rattrapage-corrige.pdf
+
+YEAR 2022
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2022 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136621
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2022-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2022 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136832
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2022-normale-corrige-3.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2022 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136624
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2022-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2022 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136835
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2022-rattrapage-corrige-3.pdf
+
+YEAR 2021
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2021 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/127287
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2021-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2021 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136826
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2021-normale-corrige-3.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2021 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/127290
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2021-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2021 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/136829
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2021-rattrapage-corrige-3.pdf
+
+YEAR 2020
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2020 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/109742
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2020-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2020 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/109745
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2020-normale-corrige-3.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2020 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/109751
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2020-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2020 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/109757
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2020-rattrapage-corrige-3.pdf
+
+YEAR 2019
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2019 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/68300
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2019-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2019 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/68303
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2019-normale-corrige.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2019 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94419
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2019-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2019 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94422
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2019-rattrapage-corrige.pdf
+
+YEAR 2018
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2018 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57726
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2018-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2018 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57729
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2018-normale-corrige.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2018 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57732
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2018-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2018 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57735
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2018-rattrapage-corrige.pdf
+
+YEAR 2017
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2017 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57711
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2017-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2017 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57714
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2017-normale-corrige.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2017 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57717
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2017-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2017 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57720
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2017-rattrapage-corrige.pdf
+
+YEAR 2016
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2016 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57699
+  Direct document: https://www.alloschool.com/index.ph%70/assets/documents/course-422/examen-national-physique-chimie-spc-2016-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2016 Normale - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57702
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2016-normale-corrige.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2016 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57705
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2016-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Title: Examen National Physique-Chimie SPC 2016 Rattrapage - Corrigé
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57708
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2016-rattrapage-corrige.pdf
+
+YEAR 2015
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2015 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94472
+  Direct document: https://www.alloschool.com/index.ph%70/assets/documents/course-422/examen-national-physique-chimie-spc-2015-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2015 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94476
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2015-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2014
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2014 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94465
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2014-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2014 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94469
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2014-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2013
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2013 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94458
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2013-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2013 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94461
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2013-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2012
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2012 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94452
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2012-normale-sujet.pdf
+- Normal — Correction
+  Title: Examen National Physique-Chimie SPC 2012 Normal-Corrigé
+  Exact date: Not stated on source
+  Source: Yool Education
+  Link: https://www.yool.education/library/examen-national-physique-chimie-spc-2012-normal-corrige
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2012 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94455
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2012-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2011
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2011 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94446
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2011-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2011 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94449
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2011-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2010
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2010 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94443
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2010-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2010 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57723
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2010-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2009
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2009 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57696
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2009-normale-sujet.pdf
+- Normal — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2009 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/94426
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2009-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+YEAR 2008
+Checked: YES
+- Normal — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2008 Normale - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57690
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2008-normale-sujet.pdf
+- Normal — Correction
+  Title: Correction du sujet de bac marocain physique 2008 session normale science physique
+  Exact date: Not stated on source
+  Source: biof.dataelouardi.com
+  Link: https://biof.dataelouardi.com/wp-content/uploads/2024/12/EXAMEN-NATIONAL-Correction-1-SN-SPC-PC-2008.pdf
+- Rattrapage — Exam/Sujet
+  Title: Examen National Physique-Chimie SPC 2008 Rattrapage - Sujet
+  Exact date: Not stated on source
+  Source: AlloSchool
+  Link: https://www.alloschool.com/element/57693
+  Direct document: https://www.alloschool.com/assets/documents/course-422/examen-national-physique-chimie-spc-2008-rattrapage-sujet.pdf
+- Rattrapage — Correction
+  Status: Not found after checking AlloSchool and targeted Internet searches.
+  Exact date: Not available.
+  Source/link: None verified.
+
+VERIFICATION NOTES
+- Every year from 2026 down through 2008 is explicitly listed above and marked Checked: YES.
+- Scope restricted to 2BAC Sciences Physiques / SPC Physics-Chemistry; Sciences Mathématiques and other streams were excluded.
+- AlloSchool index checked: https://www.alloschool.com/section/4585
+- Main category requested: https://www.alloschool.com/category/physical-science
+- “Exact date” is listed only when the source states an exam date. AlloSchool page publication dates were not treated as exam dates.
+- Missing slots are recorded as unavailable rather than inferred or fabricated.
